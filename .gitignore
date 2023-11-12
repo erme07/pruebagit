@@ -1,3 +1,5 @@
-#ignorar srchivos de texto
+#ignorar srchivos de texto y node modules
 
 *.txt
+/node_modules/
+/dist/
